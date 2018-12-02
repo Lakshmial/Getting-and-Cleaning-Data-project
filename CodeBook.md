@@ -3,19 +3,32 @@
 Subject
 
   volunteers on whom the analysis has performed
-  1-30
-  data format-factor
   
-Activity 
+    1-30
+  
+    data format-factor
+  
+Activity
+
+
         type of activity done by the subject while the measurement is taken
+        
   levels-6
+  
   labels-
-        1.WALKING           
-        2.WALKING_UPSTAIRS  
+  
+        1.WALKING  
+        
+        2.WALKING_UPSTAIRS
+        
         3.WALKING_DOWNSTAIRS
-        4.SITTING           
+        
+        4.SITTING  
+        
         5.STANDING
+        
         6.LAYING
+        
    data format-factor
    
    
