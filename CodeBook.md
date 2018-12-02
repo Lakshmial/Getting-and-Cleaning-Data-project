@@ -33,201 +33,201 @@ Activity
    
    
 timeBodyAccelerometer-mean()-X 
-(numeric)  
+    (numeric)  
 
 timeBodyAccelerometer-mean()-Y 
-(numeric) 
+    (numeric) 
 
 timeBodyAccelerometer-mean()-Z
-(numeric)
+   (numeric)
  
 timeBodyAccelerometer-std()-X 
-(numeric)
+   (numeric)
 
 timeBodyAccelerometer-std()-Y
-(numeric)
+  (numeric)
 
 timeBodyAccelerometer-std()-Z 
-(numeric)
+  (numeric)
 
 timeGravityAccelerometer-mean()-X 
-(numeric)
+  (numeric)
 
 timeGravityAccelerometer-mean()-Y 
-(numeric)
+  (numeric)
 
 timeGravityAccelerometer-mean()-Z 
-(numeric)
+  (numeric)
 
 timeGravityAccelerometer-std()-X 
-(numeric)
+  (numeric)
 
 timeGravityAccelerometer-std()-Y
-(numeric)
+  (numeric)
 
 timeGravityAccelerometer-std()-Z
-(numeric)
+  (numeric)
 
 timeBodyAccelerometerJerk-mean()-X
-(numeric)
+  (numeric)
 
 timeBodyAccelerometerJerk-mean()-Y 
-(numeric)
+  (numeric)
 
 timeBodyAccelerometerJerk-mean()-Z 
-(numeric)
+  (numeric)
 
 timeBodyAccelerometerJerk-std()-X 
-(numeric)
+  (numeric)
 
 timeBodyAccelerometerJerk-std()-Y 
-(numeric)
+  (numeric)
 
 timeBodyAccelerometerJerk-std()-Z
-(numeric)
+  (numeric)
 
 timeBodyGyroscope-mean()-X 
-(numeric)
+  (numeric)
 
 timeBodyGyroscope-mean()-Y 
-(numeric)
+  (numeric)
 
 timeBodyGyroscope-mean()-Z 
-(numeric)
+  (numeric)
 
 timeBodyGyroscope-std()-X
-(numeric)
+  (numeric)
 
 timeBodyGyroscope-std()-Y
-(numeric)
+  (numeric)
 
 timeBodyGyroscope-std()-Z 
-(numeric)
+  (numeric)
 
 timeBodyGyroscopeJerk-mean()-X
-(numeric)
+  (numeric)
 
 timeBodyGyroscopeJerk-mean()-Y
-(numeric)
+  (numeric)
 
 timeBodyGyroscopeJerk-mean()-Z
-(numeric)
+  (numeric)
 
 timeBodyGyroscopeJerk-std()-X 
-(numeric)
+  (numeric)
 
 timeBodyGyroscopeJerk-std()-Y
-(numeric)
+  (numeric)
 
 timeBodyGyroscopeJerk-std()-Z  
-(numeric)
+  (numeric)
 
 timeBodyAccelerometerMagnitude-mean()
-(numeric)
+  (numeric)
 
 timeBodyAccelerometerMagnitude-std() 
-(numeric)
+  (numeric)
 
 timeGravityAccelerometerMagnitude-mean()
-(numeric)
+  (numeric)
 
 timeGravityAccelerometerMagnitude-std()
-(numeric)
+  (numeric)
 
 timeBodyAccelerometerJerkMagnitude-mean()
-(numeric)
+  (numeric)
 
 timeBodyAccelerometerJerkMagnitude-std() 
-(numeric)
+  (numeric)
 
 timeBodyGyroscopeMagnitude-mean() 
-(numeric)
+  (numeric)
 
 timeBodyGyroscopeMagnitude-std() 
-(numeric)
+  (numeric)
 
 timeBodyGyroscopeJerkMagnitude-mean() 
-(numeric)
+  (numeric)
 
 timeBodyGyroscopeJerkMagnitude-std()
-(numeric)
+  (numeric)
 
 frequencyBodyAccelerometer-mean()-X 
-(numeric)
+  (numeric)
 
 frequencyBodyAccelerometer-mean()-Y
-(numeric)
+  (numeric)
 
 frequencyBodyAccelerometer-mean()-Z
-(numeric)
+  (numeric)
 
 frequencyBodyAccelerometer-std()-X 
-(numeric)
+  (numeric)
 
 frequencyBodyAccelerometer-std()-Y
-(numeric)
+  (numeric)
 
 frequencyBodyAccelerometer-std()-Z
-(numeric)
+  (numeric)
 
 frequencyBodyAccelerometerJerk-mean()-X 
-(numeric)
+  (numeric)
 
 frequencyBodyAccelerometerJerk-mean()-Y
-(numeric)
+  (numeric)
 
 frequencyBodyAccelerometerJerk-mean()-Z
-(numeric)
+  (numeric)
 
 frequencyBodyAccelerometerJerk-std()-X 
-(numeric)
+  (numeric)
 
 frequencyBodyAccelerometerJerk-std()-Y
-(numeric)
+  (numeric)
 
 frequencyBodyAccelerometerJerk-std()-Z
-(numeric)
+  (numeric)
 
 frequencyBodyGyroscope-mean()-X
-(numeric)
+  (numeric)
 
 frequencyBodyGyroscope-mean()-Y
-(numeric)
+  (numeric)
 
 frequencyBodyGyroscope-mean()-Z
-(numeric)
+  (numeric)
 
 frequencyBodyGyroscope-std()-X 
-(numeric)
+  (numeric)
 
 frequencyBodyGyroscope-std()-Y 
-(numeric)
+  (numeric)
 
 frequencyBodyGyroscope-std()-Z  
-(numeric)
+  (numeric)
 
 frequencyBodyAccelerometerMagnitude-mean()
-(numeric)
+  (numeric)
 
 frequencyBodyAccelerometerMagnitude-std() 
-(numeric)
+  (numeric)
 
 frequencyBodyAccelerometerJerkMagnitude-mean()
-(numeric)
+  (numeric)
 
 frequencyBodyAccelerometerJerkMagnitude-std()
-(numeric)
+  (numeric)
 
 frequencyBodyGyroscopeMagnitude-mean() 
-(numeric)
+  (numeric)
 
 frequencyBodyGyroscopeMagnitude-std()
-(numeric)
+  (numeric)
 
 frequencyBodyGyroscopeJerkMagnitude-mean() 
-(numeric)
+  (numeric)
 
 frequencyBodyGyroscopeJerkMagnitude-std()
-(numeric)
+  (numeric)
           
           
